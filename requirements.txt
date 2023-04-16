@@ -1,0 +1,19 @@
+numpy
+scikit-learn
+scipy
+matplotlib
+pylint
+autopep8
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.11.0
+torchvision==0.12.0
+pandas
+imblearn
+seaborn
+statsmodels
+hydra-core
+umap-learn
+scanpy
+anndata
+python-igraph
+louvain
