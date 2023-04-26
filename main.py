@@ -1,5 +1,3 @@
-# STUDENT NAME: Mike Zhu
-# STUDENT ID: 261069547
 import pandas as pd
 import numpy as np
 import seaborn as sns
